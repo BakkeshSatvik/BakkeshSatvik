@@ -32,7 +32,7 @@
 
 **About me**
 
-- I'm a self-taught passionate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> India 🇮🇳.
+- I'm a self-taught passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> India 🇮🇳.
 
 - :telescope: I’m working as a Software Engineer at [Banksathi PVT LTD](http://banksathi.com/) and contributing to frontend and backend for building web applications.
 
