@@ -30,15 +30,13 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-I'm a self-taught passionate full stack developer from India 🇮🇳
-
 **About me**
 
-- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- I'm a self-taught passionate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> India 🇮🇳.
 
 - :telescope: I’m working as a Software Engineer at [Banksathi PVT LTD](http://banksathi.com/) and contributing to frontend and backend for building web applications.
 
-- ❤️ I love writing Javascript, TypeScript, PHP and building fun experiments on Laravel, MERN stack and spring boot applications
+- ❤️ I love writing Javascript, TypeScript, PHP and building fun experiments on Laravel, MERN stack and spring boot applications.
 
 - :seedling: Exploring new language and frame works.
 
